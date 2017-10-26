@@ -1,8 +1,11 @@
-package com.eric.multithreading;
+package  com.eric.multithreading;
 
-public class MyThreadRun {
+import org.junit.Test;
 
-	public static void main(String[] args) {
+public class MyThreadTest {
+
+	@Test
+	public  void test() {
 		// TODO Auto-generated method stub
         MyThread myThread=new MyThread();
         myThread.start();
