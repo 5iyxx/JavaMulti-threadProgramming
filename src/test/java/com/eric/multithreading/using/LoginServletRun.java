@@ -1,4 +1,7 @@
-package com.eric.multithreading;
+package com.eric.multithreading.using;
+
+import com.eric.multithreading.ALogin;
+import com.eric.multithreading.BLogin;
 
 public class LoginServletRun {
 

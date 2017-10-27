@@ -1,4 +1,6 @@
-package  com.eric.multithreading;
+package  com.eric.multithreading.using;
+
+import com.eric.multithreading.MyThread;
 
 public class MyThreadTest {
 
