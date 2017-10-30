@@ -1,7 +1,7 @@
 package com.eric.multithreading.using;
 
-import com.eric.multithreading.ALogin;
-import com.eric.multithreading.BLogin;
+import com.eric.multithreading.using.ALogin;
+import com.eric.multithreading.using.BLogin;
 
 public class LoginServletRun {
 

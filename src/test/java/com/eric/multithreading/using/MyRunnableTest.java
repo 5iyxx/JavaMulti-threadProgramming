@@ -1,6 +1,6 @@
 package com.eric.multithreading.using;
 
-import com.eric.multithreading.MyRunnable;
+import com.eric.multithreading.using.MyRunnable;
 
 public class MyRunnableTest {
 

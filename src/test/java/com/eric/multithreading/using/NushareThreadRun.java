@@ -1,6 +1,6 @@
 package com.eric.multithreading.using;
 
-import com.eric.multithreading.UnshareThread;
+import com.eric.multithreading.using.UnshareThread;
 
 public class NushareThreadRun {
 

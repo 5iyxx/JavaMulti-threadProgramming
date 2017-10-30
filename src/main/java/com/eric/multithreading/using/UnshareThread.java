@@ -1,4 +1,4 @@
-package com.eric.multithreading;
+package com.eric.multithreading.using;
 
 public class UnshareThread extends Thread {
 

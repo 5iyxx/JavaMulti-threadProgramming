@@ -1,6 +1,6 @@
 package com.eric.multithreading.using;
 
-import com.eric.multithreading.RankThread;
+import com.eric.multithreading.using.RankThread;
 
 public class RankThreadTest {
 

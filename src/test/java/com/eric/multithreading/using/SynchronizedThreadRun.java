@@ -1,6 +1,6 @@
 package com.eric.multithreading.using;
 
-import com.eric.multithreading.SynchronizedThread;
+import com.eric.multithreading.using.SynchronizedThread;
 
 public class SynchronizedThreadRun {
 

@@ -1,6 +1,6 @@
 package com.eric.multithreading.using;
 
-import com.eric.multithreading.RandomThread;
+import com.eric.multithreading.using.RandomThread;
 
 public class RandomThreadTest {
 

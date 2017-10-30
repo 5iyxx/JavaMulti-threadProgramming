@@ -1,4 +1,4 @@
-package com.eric.multithreading;
+package com.eric.multithreading.using;
 
 public class MyRunnable implements Runnable {
 

@@ -1,4 +1,4 @@
-package com.eric.multithreading;
+package com.eric.multithreading.using;
 
 public class SynchronizedThread extends Thread {
 	private int count = 5;

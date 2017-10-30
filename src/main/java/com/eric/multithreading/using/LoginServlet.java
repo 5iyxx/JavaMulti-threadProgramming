@@ -1,4 +1,4 @@
-package com.eric.multithreading;
+package com.eric.multithreading.using;
 
 //本类模拟成一个Servlet组件
 public class LoginServlet {

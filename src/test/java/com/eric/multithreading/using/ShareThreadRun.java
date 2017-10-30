@@ -1,6 +1,6 @@
 package com.eric.multithreading.using;
 
-import com.eric.multithreading.ShareThread;
+import com.eric.multithreading.using.ShareThread;
 
 public class ShareThreadRun {
 

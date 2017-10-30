@@ -1,6 +1,6 @@
 package com.eric.multithreading.using;
 
-import com.eric.multithreading.SameNum;
+import com.eric.multithreading.using.SameNum;
 
 public class SameNumRun {
 
