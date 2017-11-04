@@ -15,5 +15,4 @@ public class StopThread extends Thread {
 			e.printStackTrace();
 		}
 	}
-
 }
